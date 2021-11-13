@@ -8,4 +8,4 @@ I did this app to learn how to combine all the individual technologies I learnt 
 ## Screenshots
 
 ### Todos List View
-![Todos List View](./screenshots/todoapp.PNG?raw=true "Todos List View")
+![Todos List View](./screenshots/todoapp.png?raw=true "Todos List View")
